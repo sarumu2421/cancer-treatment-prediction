@@ -4,7 +4,10 @@ This project uses a machine learning model to explore whether differences in cli
 
 The model is trained on real-world clinical data and deployed as an interactive Streamlit application for educational purposes.
 
-Test the deployed app [here](https://sarumu2421-cancer-treatment-prediction-streamlit-app-y3jbm1.streamlit.app/)!
+Test the deployed app [here](https://sarumu2421-cancer-treatment-prediction-streamlit-app-y3jbm1.streamlit.app/)! 
+
+!webpage1[images/webpage] 
+!webpage2[images/webpage_2]
 
 **Motivation:**
 Treatment response in breast cancer varies widely between patients, and it can be challenging to predict outcomes using clinical information alone. In this project, I explore whether commonly available clinicopathologic features, like tumor cellularity, lymph node involvement, histological subtype, menopausal status, and age at diagnosis, contain useful signal for estimating treatment response. A tool like this could hat help doctor better understand patient risk profiles, compare treatment options, and identify patients who may benefit from certain therapies.
